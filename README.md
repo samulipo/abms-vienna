@@ -7,3 +7,5 @@ These are the originals, could probably use some updating.
 Original workshop programme [here](https://philevents.org/event/show/98845)
 
 Thanks to the organizers!
+
+This project is licensed under the terms of the CC-BY-4.0 license.
